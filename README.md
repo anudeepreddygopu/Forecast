@@ -1,5 +1,5 @@
 # Forecast
-This application is a weather forecast application which is buit with MVVM architecture using the APIs available from openweathermap. This application includes Google places implimention to select the place for which the weather forecast is needed. A mapview of the selected location will be displayed in the background of the screen.
+This application is a simple weather forecast application which is buit with MVVM architecture using the APIs available from openweathermap. This application includes Google places implimention to select the place for which the weather forecast is needed. A mapview of the selected location will be displayed in the background of the screen.
 
 ## Getting Started
 
