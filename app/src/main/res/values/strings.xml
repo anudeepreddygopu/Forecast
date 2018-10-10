@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="title_activity_dashboard">Weather</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA5EJa_0xMYN3bJQBXTac_R3O95PvA2n9A</string>
+    <string name="weather_forecast_id" templateMergeStrategy="preserve" translatable="false">d56390f7267746b6f0349c86eadc4807</string>
+    <string name="loading">Loading...</string>
+    <string name="no_network">Network not available</string>
+    <string name="click_here_to_change_location">Click here to change location</string>
+    <string name="error">Error</string>
+</resources>
